@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Hí các chị đại!',
+    introTitle: 'Mây Tầng à !',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'Híhí',
-    title: 'Phải chăng tui đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng tui đã say ngay từ lúc thấy nụ cười ấy ',
+    btnIntro: 'hihi',
+    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là iu chết đi đươc  <33',
-    btnNo: 'Không, chị gái à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu tui <3',
-    btnReply: 'Gửi cho tui <3',
-    reply: 'tại vì Duyn xinh gái đáng iu,dễ thương cutephomaique nhất trên đời',
-    mess: 'Tui biết mà 🥰. iu các chị đại nhiều nhiều 😘😘',
-    messDesc: 'iu bé duyn quá trời.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/duyen.duongthihong/'
+    btnNo: 'Không, nha:3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    btnReply: 'Gửi cho anh <3',
+    reply: 'bởi vì anh là người tuyệt vời nhất mà e đã được gặp: đẹp trai nè, có tài nè, yêu em nhiều nè...... Cảm ơn ông trời đã cho chúng ta gặp nhau',
+    mess: 'Anh biết mà 🥰. Iu em nhiều nhiều 😘😘',
+    messDesc: 'Anh yêu em <3.',
+    btnAccept: 'Yêu anh <3',
+    messLink: 'https://www.facebook.com/thanhnam.ck.vpdk.47'
 }
