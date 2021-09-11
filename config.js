@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Iu em nhiều nhiều 😘😘',
     messDesc: 'xem xong rùi zui zẻ không quạo nhá, cứ coi nó như niềm zui là được, anh là người theo e thấy thì anh chỉ cần bớt nghịch đi và trưởng thành nên xíu là được, như vậy là ổn rùi.Tuổi mới e chúc anh có nhiều sức khỏe nè. Năm nay lên học đại học rùi môi trường nó khác khi học cấp3 lắm nên vì vậy anh nhớ học nghiêm túc nhá.Mười tám tuổi rùi phải biết tự chăm sóc cho bản thân nhá, đừng để mình ốm đừng có mà để mình bị thương, nghịch ít thui mọi người sẽ lo cho anh đấy. Tuổi mới phải sống thật zui zẻ, nếu không zui có thể nói với e cũng được na.Chúc zậy thui có cơ hội năm sau sẽ chúc anh tiếp. Cuối cùng chúc anh thực hiện tốt 5 điều Bác Hồ dạy.Sinh nhật vui vẻ nha<33 ',
     btnAccept: 'món quà đến đây là hết ạ . Sinh nhật zui zẻ na<3',
-    messLink: 'https://www.facebook.com/duyen.duongthihong/'
+    messLink: 'https://www.facebook.com/duyen.duongthihong/' 
 }
